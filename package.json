@@ -1,8 +1,8 @@
 {
-  "name": "daedalos",
+  "name": "Scu-win",
   "version": "2.0.0",
   "description": "Desktop environment in the browser",
-  "author": "Dustin Brett <dustinbrett@gmail.com> (https://dustinbrett.com)",
+  "author": "Dustin Brett <shangkouyou@gmail.com> (https://dustinbrett.com)",
   "license": "MIT",
   "browserslist": [
     "defaults and supports es6 and not ie 11 and >1%"
