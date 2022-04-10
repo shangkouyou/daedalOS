@@ -7,8 +7,8 @@ type Bookmark = {
 export const bookmarks: Bookmark[] = [
   {
     icon: "/System/Icons/Favicons/google.webp",
-    name: "Google",
-    url: "https://www.google.com/webhp?igu=1",
+    name: "YouTube",
+    url: "https://youtube.com/",
   },
   {
     icon: "/System/Icons/Favicons/wikipedia.webp",
@@ -22,8 +22,8 @@ export const bookmarks: Bookmark[] = [
   },
   {
     icon: "/favicon.ico",
-    name: "daedalOS",
-    url: "https://dustinbrett.com/",
+    name: "Scu",
+    url: "https://aile.ml/",
   },
   {
     icon: "/System/Icons/Favicons/win96.webp",

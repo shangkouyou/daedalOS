@@ -140,7 +140,7 @@ export const DEFAULT_SCROLLBAR_WIDTH = 17;
 export const TASKBAR_HEIGHT = 30;
 
 export const PACKAGE_DATA = {
-  alias: "daedalOS",
+  alias: "Scu-win",
   author: "Dustin Brett",
   description: "Desktop environment in the browser",
   license: "MIT",
